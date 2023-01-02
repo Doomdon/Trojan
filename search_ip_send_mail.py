@@ -32,7 +32,5 @@ server.quit()
 
 
 
-#print(f'Хост: {hostname}')
-#print(f'Локальный IP: {local_ip}')
-#print(f'Публичный IP: {public_ip}')
+
 
